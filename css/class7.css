@@ -1,0 +1,10 @@
+body {background-color: lightslategray;
+      margin: 20px;
+}
+
+.adventure {border-style: solid;
+            padding: 25px;
+            margin: 10px;
+            margin-right: 300px;
+            background-color: rgb(176, 209, 198);
+}
